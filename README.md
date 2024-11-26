@@ -82,4 +82,12 @@ The project consists of the following files:
 - Store high scores and provide a way for users to track their progress.
 - Add error handling and input validation.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/119ceffd-5dff-4980-af83-2d25d7fcaa73)
+![image](https://github.com/user-attachments/assets/8dfd251d-417b-4d6f-8587-9e4bd7e609dd)
+![image](https://github.com/user-attachments/assets/2eac6fc2-ba43-4573-ae2f-545470443178)
+![image](https://github.com/user-attachments/assets/669668b7-134a-4112-8ed3-76bb1807598f)
+
+
 This readme provides a comprehensive overview of the quiz game application. By understanding the code structure and the responsibilities of each class, you can further develop and enhance the application.
